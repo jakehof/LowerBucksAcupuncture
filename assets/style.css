@@ -1,7 +1,17 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
 
 body { 
-    padding-top: 75px; 
+    margin: 0;
+    height: 100%;
+    background-color: white;
+    background-image: url('/assets/images/subtle-prism.svg'); 
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
 .navbar{
     width: auto;
 }
@@ -15,6 +25,7 @@ body {
 
 .sm-icons .img-fluid{
     text-decoration: none;
+    
 }
 
 .sm-icons .img-fluid:hover{
@@ -36,13 +47,6 @@ ul {
     margin:0;
 }
 
-.navlist{
-    font-size: 22px;
-    gap: 10px;
-    padding-right: 20px;
-}
-
-.brand-container .img-fluid{
-    padding-left: 50px;
-    padding-right: 50px;
+.carouselcontainer {
+    padding: 10px;
 }
