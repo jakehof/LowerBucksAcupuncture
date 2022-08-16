@@ -14,6 +14,7 @@ body {
 
 .navbar{
     width: auto;
+    color: black;
 }
 .sm-icons{
     list-style: none;
@@ -49,4 +50,13 @@ ul {
 
 .carouselcontainer {
     padding: 10px;
+}
+
+.col-md-6.bg-light.rounded-3{
+    padding: 10px;
+}
+
+.bg-black{
+    color: black;
+    background-color: black;
 }
