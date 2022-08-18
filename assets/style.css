@@ -42,28 +42,28 @@ body {
   }
   #pic1 {
     animation-delay: 0s;
-    background-image: url('/assets/images/fav1.jpeg');
+    background-image: url('LowerBucksAcupuncture/assets/images/fav1.jpeg');
   }
   #pic2 {
-    background-image: url('/assets/images/fav2.jpeg');
+    background-image: url('LowerBucksAcupuncture/assets/images/fav2.jpeg');
     animation-delay: 10s;
   }
   #pic3 {
-    background-image: url('/assets/images/fav3.jpeg');
+    background-image: url('LowerBucksAcupuncture/assets/images/fav3.jpeg');
     animation-delay: 20s;
   }
   #pic4 {
-    background-image: url('/assets/images/fav4.jpeg');
+    background-image: url('LowerBucksAcupuncture/assets/images/fav4.jpeg');
     animation-delay: 30s;
   }
 
   #pic5 {
-    background-image: url('/assets/images/fav5.jpeg');
+    background-image: url('LowerBucksAcupuncture/assets/images/fav5.jpeg');
     animation-delay: 40s;
   }
   
   #pic6 {
-    background-image: url('/assets/images/fav6.jpeg');
+    background-image: url('LowerBucksAcupuncture/assets/images/fav6.jpeg');
     animation-delay: 50s;
   }
 
