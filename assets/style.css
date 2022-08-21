@@ -5,11 +5,11 @@
 body { 
     margin: 0 auto;
     font-family: 'Noto Serif TC', serif;
-    height: 100vh;
+    height: 100%;
 
 }
 .newcont{
-  height: 100vh;
+  height: 100%;
 }
 .container1 {
     background-color: black;
