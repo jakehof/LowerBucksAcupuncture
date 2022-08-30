@@ -222,6 +222,7 @@ body {
 .navbar{
     width: auto;
     color: black;
+    
 }
 .sm-icons{
     list-style: none;
@@ -264,3 +265,7 @@ ul {
     background-color: black;
 }
 
+.start-text {
+  display: block;
+  position: relative;
+}
