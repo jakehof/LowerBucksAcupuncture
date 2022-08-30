@@ -20,8 +20,8 @@ body {
     display: block;
     background-color: black;
     width: 100%;
-    height: 100%;
-    position: relative;
+    height: 100vh;
+    position: fixed;
   }
   
   .ontop{
@@ -222,7 +222,6 @@ body {
 .navbar{
     width: auto;
     color: black;
-    position: fixed;
 }
 .sm-icons{
     list-style: none;
