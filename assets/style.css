@@ -268,3 +268,8 @@ ul {
 h2 {
   font-weight: 700;
 }
+
+.headshot{
+  width: 40%;
+  height: auto;
+}
